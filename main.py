@@ -1,7 +1,7 @@
 from fasthtml.common import *
 
 app,rt,todos,Todo = fast_app(
-    'data/todos.db',
+    '/tmp/data/todos.db',
     hdrs=[Style(':root { --pico-font-size: 100%; }')],
     id=int, title=str, done=bool, pk='id')
 
