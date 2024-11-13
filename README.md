@@ -1,6 +1,7 @@
 # FastHTML Todo App
 
-This project implements a simple Todo list application using FastHTML, showcasing dynamic updates and database integration.
+This project implements a simple Todo list application using FastHTML, showcasing dynamic updates and database integration.<br/>
+https://fast-todo-five.vercel.app/
 
 ![Todo App Screenshot](todo_screenshot.png)
 
